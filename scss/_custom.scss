@@ -1,0 +1,29 @@
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1170px
+) !default;
+$body-color: #8d8f92;
+$link-color: #8d8f92;
+$link-decoration:underline;
+$font-family-base:'Quattrocento Sans', serif;
+$font-family-second: 'Open Sans', sans-serif;
+$font-size-h1: 2.25rem;
+$btn-padding-y-sm:  0.15rem;
+$btn-padding-x-sm:  0.815rem;
+$btn-font-size-sm:   0.873rem;
+$btn-border-width: 2px;
+$btn-border-radius-sm: 4px;
+$secondary: #a4aead;
+$navbar-padding-x: 0;
+
+$primary: transparent;
+$btn-font-size: 0.875rem;
+
+$left-border-color: #e1e6ea;
+// в rem в основном задаются отступы и размеры шрифтов
+
+$p-colors: #8d8f92;
+$h-colors: #292f36;
+
